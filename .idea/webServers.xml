@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1bc0fb8e-94cb-439f-b62e-97904ea09001" name="snapstaff" url="http://localhost/snapstaff">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</project>
