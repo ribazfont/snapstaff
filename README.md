@@ -1,2 +1,2 @@
 # snapstaff
-PHP Laravel Project
+PHP Laravel Framework Project
